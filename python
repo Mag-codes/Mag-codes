@@ -1,7 +1,0 @@
-def add():
-    Gasabo = "Near"
-    return f'{Gasabo}'
-
-
-Name = add()
-print(Name)

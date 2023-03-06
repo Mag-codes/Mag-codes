@@ -9,11 +9,11 @@ Boys NUMBER;
 
 BEGIN
 
-
+--Getting students under 18 years old
 SELECT count(age) into Teenagers from STUDENT where AGE <= 18;
 dbms_output.put_line('There are ' || Teenagers || ' Whose age is below 18');
 
-
+--
 SELECT count(G) into Girls from STUDENT where G = 'F' and AGE < 18;
 dbms_output.put_line(Girls || ' student out of the ' || Teenagers || ' are girls');
 
@@ -42,3 +42,4 @@ exception
 when OTHERS then 
     dbms_output.put_line('An error occured');
 End;
+/
