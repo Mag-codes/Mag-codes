@@ -13,8 +13,6 @@ Max_salary employes.sal%type;
 salary_is_corrected EXCEPTION;
 PRAGMA exception_init(salary_is_corrected,-20001);
 
-
-
 BEGIN
 -- Querring the database
 select sal into salary from Employes WHERE CODE=id; 
