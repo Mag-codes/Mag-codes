@@ -1,9 +1,11 @@
---Creating table student and addind data in it
+--Creating table student 
 CREATE TABLE STUDENT (
     ID NUMBER,
     NAME VARCHAR(20),
     G CHAR(1) AGE NUMBER;
 );
+
+--Inserting data into table
 INSERT INTO STUDENT
 VALUES(1, 'Nadine', 'F', 12);
 INSERT INTO STUDENT
