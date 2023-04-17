@@ -12,7 +12,7 @@ mycursor = mydb.cursor()
 mycursor.execute("""CREATE TABLE customers(name VARCHAR(255),
 address VARCHAR(255))""")
 
-sql = "INSERT INTO customers(name, address) values(%s, %s)"
+sql = "INSERT INTO customers(name, address) values(%s, %s)"clea
 val = [("John", "Highway 21"),
        ("Ricard", "Sky st 331")]
 
