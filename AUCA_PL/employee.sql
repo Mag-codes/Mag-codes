@@ -13,8 +13,8 @@ CREATE TABLE EMP_TABLE (EMP_CODE CHAR(4),
                         EMP_FIRST_NAME VARCHAR(50),
                         EMP_LAST_NAME VARCHAR(50),
                         EMP_SALARY NUMBER,
-                        EMP_ADDRESS VARCHAR(20),
-                        PRIMARY KEY(EMP_CODE));
+                        EMP_ADDRESS VARCHAR(20)
+                        );
 
 -- Inserting Data into Emp_table
 INSERT INTO EMP_TABLE  VALUES('E002', 'John', 'Wick', 345000, 'Burundi');
@@ -22,7 +22,15 @@ INSERT INTO EMP_TABLE  VALUES('E003', 'Anna', 'Frank', 123400, 'Kenya');
 INSERT INTO EMP_TABLE  VALUES('E001', 'Richard', 'Cipher', 245000, 'Rwanda');
 INSERT INTO EMP_TABLE  VALUES('E004', 'Louise', 'Newton', 768900, 'Uganda');
 INSERT INTO EMP_TABLE  VALUES('E005', 'Marie', 'Currie', 678900, 'Tanzanie');
-INSERT INTO EMP_TABLE  VALUES('E006', 'Alfred', 'Butler', 345670, 'Chad');
+CREATE OR REPLACE TRIGGER salary_updated_check
+BEFORE INSERT ON EMP_TABLE
+FOR EACH ROW
+begin
+  IF :NEW.EMP_CODE = :OLD.EMP_CODE THEN
+    raise_application_error(-201111, 'VIOLATION');
+    END IF;
+end;
+INSERT INTO EMP_TABLE VALUES('E010', 'MUNEZERO', 'ANGE', 1000000, 'RWANDA');
 
 -- Creating an Interaface
 PACKAGE specification
