@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Munezero
-- 👀 I’m interested in Building the technologies that can impact the daily lives of the people
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m like writing in python but I have also the knowledge of other languages like c and Java, Javascript
-- 📫 How to reach me +250783172388, muneangechaste@gmail.com
-- I am currently unrolled in Adventist University of Central Africa where I am pursing Information Technology
-<!---
-Munezero2000/Munezero2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm @Munezero 👋
+
+I'm passionate about building technologies that can impact the daily lives of people.
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+## Contact Me
+
+- 📫 Phone: +250783172388
+- 📧 Email: [muneangechaste@gmail.com](mailto:muneangechaste@gmail.com)
+
+## About Me
+
+I’m currently enrolled at Adventist University of Central Africa, pursuing a degree in Information Technology. I'm enthusiastic about learning new technologies and applying them to solve real-world problems.
+
+## Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munezero-ange-gabriel-140469234/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://magbrand.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7sf57c)
+
+Feel free to reach out if you have any questions or if you would like to collaborate on a project!
