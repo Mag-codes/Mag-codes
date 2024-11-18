@@ -35,7 +35,7 @@ Feel free to reach out if you have any questions or if you would like to collabo
 
 ![Munezero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munezero2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munezero2000&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
+[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-statshttps://streak-stats.demolab.com/?user=Munezero2000)
 
 
 
