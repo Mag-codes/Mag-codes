@@ -2,6 +2,8 @@
 
 I'm passionate about building technologies that can impact the daily lives of people.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
+
 ## Skills
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,7 +37,6 @@ Feel free to reach out if you have any questions or if you would like to collabo
 
 ![Munezero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munezero2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munezero2000&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
 
 
 
