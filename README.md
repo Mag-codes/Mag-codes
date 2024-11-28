@@ -33,7 +33,7 @@ I’m currently enrolled at Adventist University of Central Africa, pursuing a d
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://magbrand.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7sf57c)
 
-Feel free to reach out if you have any questions or if you would like to collaborate on a project!
+Feel free to reach out if you have any questions or if you would like to collaborate on a project!🔥🔥🔥
 
 ![Munezero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munezero2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munezero2000&layout=compact&theme=radical)
