@@ -1,6 +1,6 @@
 # Hi there, I'm @Munezero 👋
 
-I'm passionate about building technologies that can impact the daily lives of people.
+I'm passionate about **building technologies** that can impact the daily lives of people.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
 
