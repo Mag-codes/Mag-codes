@@ -2,7 +2,7 @@
 
 I'm passionate about **building technologies** that can impact the daily lives of people.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
+#[![GitHub Streak](https://streak-stats.demolab.com/?user=Munezero2000)](https://git.io/streak-stats)
 
 ## Skills
 
@@ -34,8 +34,8 @@ I’m currently enrolled at Adventist University of Central Africa, pursuing a d
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!🔥🔥🔥
 
-![Munezero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munezero2000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munezero2000&layout=compact&theme=radical)
+#![Munezero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munezero2000&show_icons=true&theme=radical)
+#![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munezero2000&layout=compact&theme=radical)
 
 
 
