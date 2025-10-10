@@ -18,7 +18,7 @@ I'm passionate about **building technologies** that can impact the daily lives o
 ## Contact Me
 
 - 📫 Phone: +250783172388
-- 📧 Email: [muneangechaste@gmail.com](mailto:muneangechaste@gmail.com)
+- 📧 Email: [munezero05200@gmail.com](mailto:munezero05200@gmail.com)
 
 ## About Me
 
