@@ -30,6 +30,6 @@ I’m currently enrolled at Adventist University of Central Africa, pursuing a d
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://magbrand.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7sf57c)
 
-Feel free to reach out if you have any questions or if you would like me to collaborate on a project!🔥🔥🔥
+Feel free to reach out if you have any questions or if you would like me😉 to collaborate on a project!🔥🔥🔥
 
 
