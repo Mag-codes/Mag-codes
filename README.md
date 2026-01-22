@@ -22,7 +22,7 @@ I'm passionate about **building technologies** that can impact the daily lives o
 
 ## About Me
 
-I’m currently enrolled at Adventist University of Central Africa, pursuing a degree in Information Technology. I'm enthusiastic about learning new technologies and applying them to solve real-world problems.
+I am passionate about leveraging my skills and experience to contribute to innovative projects and drive success within my team. I look forward to the opportunity to bring my expertise in Computer Software Engineering to new challenges and continue my professional growth
 
 ## Find Me Online
 
